@@ -1,0 +1,8 @@
+{
+  "name": "EduScope",
+  "description": "A comprehensive digital learning ecosystem for schools featuring AI-powered support, digital classrooms, and advanced analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
